@@ -1,0 +1,1001 @@
+id,name ,category ,price tier,neighbourhood,average ratings,good for kids,opening time,closing time
+1,Aimbu,indian,cheap,Westchester Square - Bronx,5,false,11:14,20:21
+2,Skynoodle,american,cheap,Jackson Heights - Queens,4,true,9:58,21:46
+3,Ntags,italian,cheap,Washington Heights - Manhattan,5,false,11:28,23:11
+4,Oozz,italian,cheap,Lindenwood - Queens,5,true,10:19,20:30
+5,Feedbug,afghani,medium,Bellerose - Queens,5,false,10:18,21:10
+6,Yombu,malaysian,medium,St. Albans - Queens,3,true,10:48,22:22
+7,JumpXS,indian,medium,Fulton Ferry - Brooklyn,0,true,9:02,20:40
+8,Jabbercube,indian,expensive,South Jamaica - Queens,0,false,9:27,20:08
+9,Jaxspan,indian,cheap,Ravenswood - Queens,2,false,10:09,22:54
+10,Yotz,italian,expensive,Tudor City - Manhattan,3,false,9:10,22:00
+11,Meedoo,afghani,cheap,Kew Gardens Hills - Queens,4,false,11:19,22:34
+12,Zoonder,indian,medium,Annadale - Staten Island,0,false,9:01,23:02
+13,Shufflebeat,italian,expensive,Hammels - Queens,2,true,10:08,21:34
+14,Camimbo,malaysian,expensive,Glen Oaks - Queens,5,true,10:20,22:17
+15,Dabjam,indian,medium,Williamsburg - Brooklyn,0,false,10:48,20:27
+16,Skipfire,afghani,cheap,Sutton Place - Manhattan,4,false,9:38,22:43
+17,Photolist,indian,medium,Cobble Hill - Brooklyn,0,true,10:33,21:14
+18,Jayo,american,cheap,Ridgewood - Queens,0,true,10:00,22:17
+19,Browsecat,italian,medium,Stapleton - Staten Island,0,false,10:05,22:55
+20,Feedbug,chinese,medium,Little Italy - Manhattan,4,false,10:22,20:32
+21,Realbridge,afghani,cheap,Concourse - Bronx,3,true,9:07,22:07
+22,Layo,afghani,expensive,Fresh Meadows - Queens,2,false,10:26,21:57
+23,Photofeed,malaysian,cheap,Baychester - Bronx,5,false,10:10,21:33
+24,Miboo,chinese,expensive,New Springville - Staten Island,1,true,9:31,20:59
+25,Jaxbean,american,medium,University Heights - Bronx,4,false,9:27,20:05
+26,Mybuzz,afghani,expensive,Queensboro Hill - Queens,3,true,11:02,21:29
+27,Talane,thai,medium,Fort Hamilton - Brooklyn,4,false,10:09,22:03
+28,Yambee,italian,medium,Bedford Park - Bronx,5,false,9:56,23:19
+29,Linkbuzz,chinese,cheap,Hunts Point - Bronx,3,false,10:01,21:16
+30,Quatz,indian,cheap,Old Town - Staten Island,3,true,10:44,22:00
+31,Cogilith,malaysian,medium,Melrose - Bronx,3,false,10:26,22:12
+32,Photojam,american,cheap,Bayside - Queens,5,false,9:55,20:13
+33,Topiczoom,malaysian,cheap,New Springville - Staten Island,2,false,10:32,23:16
+34,Buzzshare,afghani,expensive,Morningside Heights - Manhattan,0,true,10:31,21:43
+35,Voonte,american,medium,Castle Hill - Bronx,2,true,10:38,22:20
+36,Trunyx,italian,expensive,Boerum Hill - Brooklyn,2,false,10:27,23:13
+37,Dynava,afghani,expensive,Sutton Place - Manhattan,5,false,10:03,20:57
+38,Vitz,italian,expensive,West Brighton - Staten Island,4,true,10:32,20:57
+39,Jabbersphere,indian,expensive,Arrochar - Staten Island,5,false,10:17,20:32
+40,Blogtags,thai,cheap,Elmhurst - Queens,1,true,9:26,21:36
+41,Eidel,indian,expensive,Hammels - Queens,1,true,9:01,22:43
+42,Skaboo,thai,expensive,Marine Park - Brooklyn,3,false,9:46,22:22
+43,Skimia,italian,cheap,Melrose - Bronx,2,true,10:11,20:43
+44,Tavu,american,medium,Boerum Hill - Brooklyn,3,true,9:52,22:21
+45,Jaxspan,italian,expensive,Belmont - Bronx,2,false,11:00,21:59
+46,Feedspan,chinese,cheap,Huguenot - Staten Island,4,false,9:01,22:19
+47,Kwilith,chinese,expensive,Mott Haven - Bronx,3,false,10:25,22:57
+48,Dynabox,italian,cheap,Flatbush - Brooklyn,1,false,9:24,20:12
+49,Yakitri,italian,medium,East Tremont - Bronx,4,false,10:59,21:58
+50,Yakijo,malaysian,expensive,Mill Island - Brooklyn,5,true,9:15,20:01
+51,Realbridge,thai,expensive,West Brighton - Staten Island,5,false,10:49,22:12
+52,Myworks,italian,cheap,Great Kills - Staten Island,2,false,9:34,21:04
+53,Mybuzz,italian,medium,Randall Manor - Staten Island,0,true,9:26,23:24
+54,Photobug,afghani,medium,Roosevelt Island - Manhattan,4,true,11:11,21:34
+55,Shuffletag,malaysian,medium,Port Richmond - Staten Island,2,false,9:55,20:04
+56,Plambee,chinese,cheap,Kingsbridge Heights - Bronx,4,false,10:11,20:20
+57,Leexo,american,expensive,Kew Gardens - Queens,1,false,10:39,20:28
+58,Snaptags,indian,expensive,City Island  - Bronx,1,true,10:23,22:46
+59,Zazio,thai,expensive,Howard Beach - Queens,5,true,10:19,22:20
+60,Divape,thai,expensive,Longwood - Bronx,0,false,10:09,20:14
+61,Lazz,afghani,expensive,Bath Beach - Brooklyn,1,true,10:26,21:14
+62,Edgeify,indian,cheap,Graniteville - Staten Island,2,true,10:35,23:08
+63,Latz,american,medium,Little Neck - Queens,1,false,9:03,21:43
+64,Devcast,chinese,expensive,Norwood - Bronx,2,false,11:28,20:19
+65,Quinu,afghani,cheap,New Brighton - Staten Island,0,true,9:02,22:23
+66,Brainverse,thai,medium,Queens Village - Queens,1,true,10:24,20:31
+67,Tekfly,chinese,cheap,Marble Hill (MN) - Bronx,3,true,10:12,21:44
+68,Tagpad,indian,medium,Kew Gardens Hills - Queens,3,false,10:21,22:43
+69,Kanoodle,american,cheap,East Tremont - Bronx,3,true,11:10,22:37
+70,Twitterlist,malaysian,expensive,Butler Manor - Staten Island,0,true,9:59,20:39
+71,Avaveo,afghani,cheap,Neponsit - Queens,2,false,9:23,21:01
+72,Roodel,thai,cheap,Woodlawn - Bronx,2,false,10:11,22:21
+73,Reallinks,indian,cheap,Stapleton - Staten Island,5,false,9:09,21:51
+74,Blogtag,indian,expensive,Elmhurst - Queens,3,false,11:17,22:58
+75,Eayo,malaysian,cheap,Pelham Gardens - Bronx,1,true,10:49,22:13
+76,Tagfeed,afghani,cheap,Auburndale - Queens,5,true,9:19,23:15
+77,Gabvine,indian,cheap,West Village - Manhattan,1,false,11:06,21:02
+78,Cogibox,indian,medium,Ravenswood - Queens,0,false,9:24,22:45
+79,Rhyzio,italian,medium,North Corona - Queens,4,true,11:11,22:26
+80,Oloo,indian,cheap,Soundview - Bronx,1,true,9:56,22:56
+81,Thoughtstorm,italian,expensive,Rugby - Brooklyn,2,false,10:58,22:32
+82,Bubbletube,thai,cheap,New Brighton - Staten Island,3,false,11:13,23:28
+83,Skimia,american,expensive,Union Square - Manhattan,3,false,11:03,22:39
+84,Camimbo,italian,expensive,Arden Heights - Staten Island,5,false,10:03,21:01
+85,Tambee,malaysian,cheap,Red Hook - Brooklyn,4,false,9:53,20:31
+86,Voolia,thai,expensive,Rosedale - Queens,4,false,11:24,23:25
+87,Divanoodle,chinese,medium,Malba - Queens,1,false,10:47,20:37
+88,Photofeed,malaysian,cheap,Glen Oaks - Queens,2,true,9:53,21:53
+89,Einti,italian,cheap,Southside - Brooklyn,2,true,9:05,23:22
+90,Gabcube,malaysian,cheap,Country Club - Bronx,3,false,11:03,22:21
+91,Voonte,indian,cheap,Kingsbridge Heights - Bronx,0,true,10:04,20:53
+92,Oloo,afghani,cheap,Graniteville - Staten Island,3,false,11:11,21:34
+93,Skajo,american,cheap,SoHo - Manhattan,3,true,10:16,20:25
+94,Tagtune,chinese,cheap,Union Square - Manhattan,5,true,11:27,21:27
+95,Edgeblab,american,cheap,Whitestone - Queens,0,false,10:20,22:43
+96,Meezzy,malaysian,cheap,Bay Terrace - Staten Island,3,true,11:13,20:48
+97,Vipe,italian,expensive,Jamaica Estates - Queens,1,false,11:17,20:38
+98,Jetwire,chinese,cheap,Manhattan Valley - Manhattan,0,false,10:50,22:37
+99,Yamia,italian,expensive,Chinatown - Manhattan,0,true,9:21,20:29
+100,Browsezoom,american,expensive,Howard Beach - Queens,0,true,9:43,20:54
+101,Edgeclub,italian,medium,Battery Park City - Manhattan,2,false,10:36,22:24
+102,Avamba,chinese,cheap,Briarwood - Queens,0,true,10:54,21:22
+103,Skyble,indian,cheap,Lincoln Square - Manhattan,3,true,9:39,22:55
+104,Vinder,malaysian,medium,Carroll Gardens - Brooklyn,2,false,9:14,20:25
+105,Yadel,chinese,medium,Times Square - Manhattan,5,true,9:27,21:29
+106,Zoombox,american,expensive,Greenpoint - Brooklyn,5,true,9:35,21:19
+107,Youtags,thai,expensive,Sheepshead Bay - Brooklyn,4,true,11:06,20:27
+108,Blogtag,chinese,expensive,Elmhurst - Queens,2,false,10:44,20:59
+109,Viva,indian,medium,Elmhurst - Queens,4,true,9:18,20:20
+110,Blogspan,malaysian,medium,Long Island City - Queens,4,false,11:01,20:14
+111,Kare,indian,medium,Willowbrook - Staten Island,1,false,11:24,23:04
+112,Photofeed,thai,expensive,Arverne - Queens,5,false,10:30,20:01
+113,Yacero,thai,medium,Fort Greene - Brooklyn,4,false,9:29,20:55
+114,Photolist,chinese,expensive,Kew Gardens - Queens,5,false,10:57,20:56
+115,Skidoo,malaysian,cheap,Heartland Village - Staten Island,2,true,9:16,20:25
+116,Lazzy,chinese,medium,DUMBO - Brooklyn,2,false,11:19,21:40
+117,Ozu,indian,medium,Jamaica Center - Queens,3,false,10:44,22:54
+118,Kamba,afghani,cheap,Rossville - Staten Island,1,true,10:56,21:09
+119,Shufflebeat,indian,medium,Corona  - Queens,2,false,10:48,21:09
+120,Leenti,malaysian,cheap,Arlington - Staten Island,3,false,10:37,21:12
+121,Blognation,malaysian,cheap,Bellaire - Queens,3,false,11:14,22:03
+122,Photobug,american,expensive,Dongan Hills - Staten Island,1,false,10:34,21:56
+123,Flipbug,indian,medium,DUMBO - Brooklyn,3,true,11:00,20:25
+124,Aibox,american,cheap,Throgs Neck - Bronx,1,false,10:37,23:18
+125,Photobean,malaysian,medium,Canarsie - Brooklyn,5,false,10:00,21:41
+126,Skimia,afghani,cheap,Richmond Town - Staten Island,3,true,10:48,22:53
+127,Edgepulse,malaysian,cheap,Sea Gate - Brooklyn,5,true,11:28,20:25
+128,Vitz,malaysian,expensive,Flatbush - Brooklyn,2,false,10:17,22:01
+129,Gabtune,chinese,cheap,Silver Lake - Staten Island,1,true,9:19,20:39
+130,Brightdog,thai,expensive,Allerton - Bronx,0,true,9:04,21:59
+131,Podcat,indian,expensive,Castle Hill - Bronx,2,false,10:19,22:23
+132,Jaloo,american,expensive,East Flatbush - Brooklyn,1,false,10:53,20:11
+133,Skajo,indian,medium,Dongan Hills - Staten Island,4,false,10:55,22:00
+134,Gabcube,thai,medium,Bushwick - Brooklyn,2,true,10:37,23:24
+135,Skyvu,thai,expensive,Ocean Parkway - Brooklyn,5,false,9:47,23:02
+136,Kayveo,afghani,cheap,Brookville - Queens,3,false,10:26,20:10
+137,Ntag,chinese,medium,Malba - Queens,4,true,11:25,22:54
+138,Youopia,afghani,expensive,Elmhurst - Queens,4,false,11:30,22:33
+139,Thoughtmix,malaysian,cheap,Arlington - Staten Island,0,true,9:17,21:27
+140,Skiba,malaysian,medium,Woodhaven - Queens,0,true,10:41,20:45
+141,Jabbertype,malaysian,cheap,East Tremont - Bronx,4,false,10:07,21:58
+142,Devshare,malaysian,cheap,Longwood - Bronx,2,true,9:17,20:07
+143,Thoughtblab,italian,expensive,Bellerose - Queens,0,true,9:11,21:58
+144,Meejo,thai,cheap,Pleasant Plains - Staten Island,0,true,11:09,22:25
+145,Babbleblab,afghani,expensive,Midland Beach - Staten Island,1,false,11:28,21:37
+146,Realblab,chinese,expensive,Randall Manor - Staten Island,0,false,9:58,21:47
+147,Dabfeed,chinese,cheap,Rockaway Park - Queens,5,false,10:23,20:03
+148,Teklist,thai,cheap,New Dorp Beach - Staten Island,1,false,9:41,22:37
+149,Plambee,italian,cheap,Hammels - Queens,0,true,11:23,20:32
+150,Avamm,american,cheap,Arden Heights - Staten Island,4,false,9:34,21:08
+151,Yamia,afghani,cheap,Travis - Staten Island,1,false,9:23,21:46
+152,Dazzlesphere,thai,cheap,Williamsburg - Brooklyn,4,true,10:24,22:54
+153,Realcube,american,cheap,Weeksville - Brooklyn,0,true,10:23,20:45
+154,Meevee,indian,cheap,Little Italy - Manhattan,2,false,9:05,22:58
+155,Ooba,american,expensive,Silver Lake - Staten Island,2,true,10:14,21:05
+156,Zoonoodle,chinese,expensive,Clinton - Manhattan,0,false,10:48,22:44
+157,Thoughtsphere,afghani,expensive,Far Rockaway - Queens,2,true,10:52,22:11
+158,Brainsphere,malaysian,cheap,Whitestone - Queens,4,false,9:11,22:19
+159,Youopia,afghani,cheap,South Ozone Park - Queens,1,false,9:02,22:26
+160,Realcube,indian,cheap,Norwood - Bronx,2,false,9:35,22:59
+161,Topicstorm,malaysian,cheap,Richmond Valley - Staten Island,5,false,9:31,20:54
+162,Oyoloo,american,cheap,Coney Island - Brooklyn,4,true,9:44,22:22
+163,Quinu,chinese,expensive,Dyker Heights - Brooklyn,2,false,10:31,20:08
+164,Photofeed,thai,expensive,Elmhurst - Queens,2,false,10:14,20:22
+165,Einti,chinese,cheap,Pelham Parkway - Bronx,5,false,10:05,21:06
+166,Tagopia,thai,expensive,Roosevelt Island - Manhattan,2,false,10:57,22:49
+167,Jaxnation,italian,cheap,Elmhurst - Queens,3,false,10:18,23:01
+168,Roombo,afghani,expensive,Dongan Hills - Staten Island,5,true,10:49,21:55
+169,Topicstorm,american,cheap,Broadway Junction - Brooklyn,3,false,11:06,22:00
+170,Edgeblab,american,cheap,Brookville - Queens,4,true,10:42,20:19
+171,Edgeify,american,expensive,Manhattanville - Manhattan,5,false,10:16,21:38
+172,Gevee,indian,expensive,Hudson Yards - Manhattan,5,true,9:51,20:21
+173,Devcast,american,cheap,Park Slope - Brooklyn,2,false,10:56,23:22
+174,Brainbox,malaysian,expensive,Emerson Hill - Staten Island,3,false,9:36,20:51
+175,Fanoodle,chinese,cheap,Westchester Square - Bronx,4,true,10:17,21:20
+176,Jatri,afghani,cheap,Annadale - Staten Island,3,false,10:05,23:08
+177,Mudo,indian,medium,Westerleigh - Staten Island,3,true,10:27,23:16
+178,Divanoodle,chinese,medium,Whitestone - Queens,2,true,10:44,21:02
+179,Flipopia,afghani,expensive,Bellaire - Queens,3,false,10:07,22:09
+180,Trilith,american,medium,East Village - Manhattan,1,false,9:27,22:49
+181,Mita,american,expensive,Neponsit - Queens,5,true,9:48,20:04
+182,Ntag,afghani,cheap,Broad Channel - Queens,4,true,10:44,22:41
+183,Ailane,chinese,cheap,Grymes Hill - Staten Island,1,true,9:47,20:34
+184,Mymm,malaysian,medium,Co-op City - Bronx,5,true,9:33,22:05
+185,Brightdog,indian,medium,Hudson Yards - Manhattan,2,false,9:07,23:21
+186,Linklinks,american,cheap,Laurelton - Queens,5,true,9:08,22:40
+187,Edgeclub,italian,medium,Woodside - Queens,3,true,11:04,23:13
+188,Shuffletag,malaysian,expensive,Shore Acres - Staten Island,3,true,10:11,20:08
+189,Kwideo,chinese,expensive,Manhattan Valley - Manhattan,5,false,10:58,21:33
+190,Agimba,italian,medium,Butler Manor - Staten Island,4,false,11:29,21:24
+191,Browsetype,thai,cheap,Kensington - Brooklyn,3,true,11:03,22:41
+192,Mynte,indian,medium,Weeksville - Brooklyn,0,false,9:30,20:17
+193,Edgeify,malaysian,cheap,Longwood - Bronx,0,true,9:24,20:18
+194,Devify,thai,cheap,Oakland Gardens - Queens,5,true,10:57,23:21
+195,Yadel,italian,expensive,Homecrest - Brooklyn,5,true,9:15,23:29
+196,Youspan,afghani,cheap,Union Square - Manhattan,0,true,10:29,23:00
+197,Youopia,afghani,cheap,Hunts Point - Bronx,5,true,9:14,20:28
+198,Ntags,american,expensive,Astoria - Queens,5,true,10:36,20:21
+199,Eimbee,afghani,medium,Sunnyside - Staten Island,3,true,10:10,22:18
+200,Wordpedia,italian,medium,Weeksville - Brooklyn,3,true,10:50,21:58
+201,Kare,thai,medium,Riverdale - Bronx,4,true,11:20,22:32
+202,Thoughtsphere,american,expensive,City Island  - Bronx,1,false,10:48,23:08
+203,Oyoyo,thai,medium,Broad Channel - Queens,3,false,11:21,22:17
+204,Trilith,italian,medium,Bensonhurst - Brooklyn,5,true,9:42,22:50
+205,Trilith,indian,cheap,St. Albans - Queens,1,true,9:31,20:47
+206,Rhyzio,indian,cheap,Broad Channel - Queens,4,true,9:59,20:01
+207,Mycat,american,expensive,Bedford-Stuyvesant - Brooklyn,2,true,11:29,22:36
+208,Voonte,italian,medium,New Dorp - Staten Island,4,false,9:49,22:14
+209,Jabbersphere,indian,cheap,Williamsbridge - Bronx,5,false,11:23,22:24
+210,Mymm,indian,cheap,Fort Greene - Brooklyn,4,false,9:10,21:27
+211,Skimia,chinese,cheap,Prospect Park South  - Brooklyn,1,true,11:27,21:21
+212,Eidel,italian,expensive,Astoria Heights - Queens,4,false,9:43,21:48
+213,Gabvine,chinese,expensive,Mariner's Harbor - Staten Island,0,true,9:46,20:10
+214,Brainsphere,chinese,cheap,Rosedale - Queens,4,true,11:22,20:09
+215,Voonix,chinese,medium,New Dorp - Staten Island,1,true,9:55,22:49
+216,Skajo,thai,medium,Central Harlem - Manhattan,3,false,9:18,20:46
+217,Thoughtsphere,indian,expensive,Douglaston - Queens,2,false,9:12,23:03
+218,Talane,indian,medium,Steinway - Queens,4,true,10:01,21:58
+219,Eadel,indian,cheap,Jamaica Estates - Queens,3,false,9:06,20:32
+220,Tagfeed,italian,expensive,Bath Beach - Brooklyn,4,true,9:39,21:48
+221,Vimbo,malaysian,expensive,Lighthouse Hill - Staten Island,2,true,11:11,22:37
+222,Feedfire,american,expensive,Morningside Heights - Manhattan,4,false,10:27,21:23
+223,Mudo,italian,cheap,West Farms - Bronx,2,false,10:36,21:28
+224,Skalith,thai,expensive,Fulton Ferry - Brooklyn,0,false,10:44,20:40
+225,Skinder,indian,expensive,Kingsbridge - Bronx,5,false,10:04,21:44
+226,Zoovu,chinese,medium,Pelham Bay - Bronx,3,false,9:47,21:51
+227,Geba,italian,expensive,Bensonhurst - Brooklyn,1,true,9:09,22:24
+228,Avaveo,thai,expensive,Sandy Ground - Staten Island,5,false,10:21,20:31
+229,Realblab,american,expensive,Lindenwood - Queens,0,false,11:20,23:25
+230,Gevee,italian,cheap,Willowbrook - Staten Island,0,false,9:31,22:14
+231,Voomm,american,expensive,Carnegie Hill - Manhattan,4,true,9:40,21:56
+232,Quatz,american,expensive,East Williamsburg - Brooklyn,3,false,11:20,20:27
+233,Feedfire,indian,cheap,Gramercy - Manhattan,1,true,9:29,21:14
+234,Twitterwire,chinese,expensive,Bayswater - Queens,3,true,10:02,21:59
+235,Linklinks,indian,expensive,Midtown - Manhattan,3,false,9:05,22:28
+236,Topiclounge,indian,cheap,Long Island City - Queens,5,true,9:57,20:09
+237,Babbleblab,american,expensive,Morningside Heights - Manhattan,0,false,11:15,21:02
+238,Tagtune,thai,cheap,SoHo - Manhattan,1,true,11:23,21:57
+239,Jabbersphere,thai,medium,Morningside Heights - Manhattan,5,true,11:19,22:28
+240,Topicshots,indian,medium,Elmhurst - Queens,1,true,9:51,21:02
+241,Feedfish,american,expensive,Howland Hook - Staten Island,0,false,10:03,21:33
+242,Gigashots,chinese,medium,Maspeth - Queens,1,false,11:09,22:36
+243,Trudeo,malaysian,cheap,Melrose - Bronx,5,false,10:37,22:45
+244,Skimia,thai,medium,Riverdale - Bronx,1,false,11:15,20:14
+245,Izio,chinese,cheap,Emerson Hill - Staten Island,2,false,9:32,20:49
+246,Aivee,american,expensive,Crown Heights - Brooklyn,0,true,10:48,22:21
+247,Oyoloo,chinese,medium,St. George - Staten Island,3,false,9:21,22:55
+248,Skinix,italian,medium,Cobble Hill - Brooklyn,0,true,11:09,20:17
+249,Aibox,indian,cheap,Randall Manor - Staten Island,1,true,11:23,21:02
+250,Babbleblab,indian,cheap,Times Square - Manhattan,4,false,9:45,23:03
+251,Camido,chinese,medium,Kensington - Brooklyn,3,false,10:30,20:31
+252,Pixope,indian,medium,Lindenwood - Queens,1,true,10:21,22:20
+253,Centimia,american,expensive,East Village - Manhattan,0,false,9:43,23:02
+254,Gabspot,indian,medium,Georgetown - Brooklyn,2,false,11:11,20:41
+255,Skivee,malaysian,cheap,Bedford Park - Bronx,5,false,10:44,21:08
+256,Mynte,italian,cheap,Tompkinsville - Staten Island,2,false,9:55,20:58
+257,Jayo,indian,cheap,Port Ivory - Staten Island,5,false,9:35,21:39
+258,Dynabox,indian,medium,Sunnyside - Queens,3,false,10:59,21:23
+259,Mycat,malaysian,medium,Kingsbridge - Bronx,2,true,9:54,22:09
+260,Jabbersphere,indian,expensive,Bedford Park - Bronx,3,true,10:12,22:07
+261,Fiveclub,chinese,expensive,Beechhurst - Queens,0,false,9:41,20:37
+262,Flipbug,chinese,medium,Highland Park - Brooklyn,3,true,9:01,20:47
+263,Yodel,italian,expensive,Spuyten Duyvil - Bronx,2,true,10:55,20:40
+264,Rhycero,indian,expensive,South Jamaica - Queens,0,true,9:47,22:23
+265,Camimbo,thai,medium,Jackson Heights - Queens,2,true,10:20,22:13
+266,Bubblemix,malaysian,medium,New Lots - Brooklyn,1,false,9:59,22:19
+267,Abata,thai,cheap,Gravesend - Brooklyn,4,false,10:57,21:12
+268,Twitterwire,italian,cheap,Soundview - Bronx,0,false,9:38,21:52
+269,Skipfire,american,medium,Egbertville - Staten Island,0,false,11:00,20:38
+270,Dabvine,american,medium,Morris Heights - Bronx,1,true,10:54,21:54
+271,Rhyloo,afghani,medium,Prospect Heights - Brooklyn,4,false,9:35,21:18
+272,Fadeo,thai,medium,Port Richmond - Staten Island,5,false,10:24,23:16
+273,Mynte,malaysian,medium,Upper East Side - Manhattan,1,false,9:19,23:27
+274,Vimbo,afghani,medium,Fort Hamilton - Brooklyn,1,false,11:01,23:13
+275,Thoughtblab,american,cheap,Jamaica Hills - Queens,5,false,11:06,23:28
+276,Gabcube,malaysian,cheap,Tompkinsville - Staten Island,3,false,11:08,20:31
+277,Tagpad,afghani,expensive,Roxbury - Queens,2,true,9:23,22:56
+278,Zoomcast,indian,expensive,New Lots - Brooklyn,0,false,10:02,20:58
+279,Skinix,indian,medium,New Lots - Brooklyn,1,false,9:59,20:09
+280,Miboo,afghani,expensive,Annadale - Staten Island,0,false,10:47,22:52
+281,Skiba,thai,expensive,Morris Park - Bronx,1,false,9:23,22:54
+282,Skippad,afghani,cheap,Tompkinsville - Staten Island,1,true,10:11,21:11
+283,Roombo,american,cheap,Tompkinsville - Staten Island,2,true,11:24,21:39
+284,Devcast,indian,expensive,Lower East Side - Manhattan,0,false,11:12,20:32
+285,Tagcat,chinese,cheap,Windsor Terrace - Brooklyn,5,true,9:01,22:57
+286,Lazz,afghani,medium,North Riverdale - Bronx,0,false,9:04,22:27
+287,Avavee,italian,medium,Bronxdale - Bronx,2,false,10:20,22:34
+288,Livetube,thai,cheap,Sea Gate - Brooklyn,1,true,11:17,20:12
+289,Katz,afghani,medium,Clifton - Staten Island,3,true,10:56,21:51
+290,Thoughtsphere,chinese,expensive,Lenox Hill - Manhattan,4,true,11:17,22:16
+291,Tekfly,american,expensive,Castle Hill - Bronx,0,false,11:08,21:22
+292,Edgeclub,thai,medium,Morris Park - Bronx,3,true,10:18,20:23
+293,Rhycero,afghani,medium,Clason Point - Bronx,0,false,11:10,23:19
+294,Zoombox,afghani,medium,Woodhaven - Queens,2,false,10:47,20:18
+295,Janyx,thai,expensive,Jamaica Estates - Queens,0,false,11:01,20:05
+296,Devpoint,indian,cheap,Sandy Ground - Staten Island,1,true,11:24,22:00
+297,Twitterbeat,chinese,expensive,Greenwich Village - Manhattan,0,true,9:11,21:11
+298,Ooba,chinese,medium,Rugby - Brooklyn,0,true,10:21,22:03
+299,Youopia,italian,cheap,Hillcrest - Queens,3,true,10:36,22:02
+300,Geba,indian,expensive,Brookville - Queens,5,true,10:03,20:02
+301,Oozz,thai,cheap,Arlington - Staten Island,4,false,11:09,20:46
+302,Yodel,thai,medium,Sutton Place - Manhattan,4,false,9:27,21:34
+303,Skiba,thai,medium,Woodside - Queens,1,true,9:49,21:01
+304,Thoughtsphere,malaysian,medium,North Corona - Queens,3,false,10:46,21:04
+305,Agivu,indian,expensive,Boerum Hill - Brooklyn,4,false,9:39,22:02
+306,Dynabox,italian,medium,Bath Beach - Brooklyn,0,true,9:56,20:29
+307,Trilia,thai,medium,Elmhurst - Queens,1,true,11:05,22:16
+308,Topicstorm,italian,medium,Broad Channel - Queens,0,false,10:38,20:04
+309,Brainlounge,malaysian,medium,Kingsbridge Heights - Bronx,2,false,10:25,20:34
+310,Youopia,american,cheap,Kew Gardens Hills - Queens,4,true,9:12,20:10
+311,Vidoo,chinese,expensive,Co-op City - Bronx,0,true,9:09,20:17
+312,Dabshots,afghani,cheap,Rockaway Park - Queens,4,true,10:19,22:56
+313,Minyx,afghani,expensive,Unionport - Bronx,0,false,9:18,20:26
+314,Yacero,american,expensive,West Farms - Bronx,3,false,9:27,22:39
+315,Vipe,malaysian,cheap,Middle Village - Queens,3,true,9:49,20:35
+316,Kwinu,chinese,cheap,Washington Heights - Manhattan,3,false,10:04,21:35
+317,Blogtag,italian,medium,Prince's Bay - Staten Island,4,true,9:38,22:01
+318,Youopia,italian,cheap,Bensonhurst - Brooklyn,0,true,11:07,23:16
+319,Dazzlesphere,italian,medium,Oakland Gardens - Queens,5,false,10:19,22:16
+320,Skidoo,american,expensive,Manhattanville - Manhattan,0,true,10:55,23:19
+321,Fivespan,malaysian,expensive,Fox Hills - Staten Island,5,true,10:09,22:42
+322,Photospace,malaysian,cheap,City Island  - Bronx,2,false,9:55,20:43
+323,Snaptags,chinese,expensive,Beach - Brooklyn,2,true,10:32,22:40
+324,Gigazoom,american,cheap,Castleton Corners - Staten Island,4,false,11:22,23:09
+325,Trupe,indian,medium,Central Harlem - Manhattan,0,false,10:19,21:17
+326,Browsecat,thai,cheap,Astoria Heights - Queens,3,true,10:23,21:49
+327,Realbridge,indian,medium,Bay Ridge - Brooklyn,3,false,10:36,22:39
+328,Brainlounge,italian,expensive,Roosevelt Island - Manhattan,3,true,10:22,20:00
+329,Thoughtstorm,american,cheap,Ozone Park - Queens,0,false,11:24,21:13
+330,Miboo,italian,medium,Cambria Heights - Queens,3,false,9:19,21:10
+331,Kare,chinese,expensive,Spring Creek - Brooklyn,3,false,9:43,20:13
+332,Twitterworks,american,expensive,Edgewater Park - Bronx,0,false,9:56,23:11
+333,Skalith,malaysian,cheap,Canarsie - Brooklyn,0,true,11:23,20:35
+334,Aibox,italian,cheap,Port Ivory - Staten Island,2,true,10:06,23:11
+335,Oozz,chinese,cheap,Butler Manor - Staten Island,5,false,9:29,22:52
+336,Thoughtsphere,malaysian,medium,Brighton Beach - Brooklyn,3,true,9:15,21:15
+337,Edgepulse,thai,medium,Bergen Beach - Brooklyn,3,false,10:37,21:48
+338,Bluejam,american,cheap,Sandy Ground - Staten Island,3,true,9:24,22:00
+339,Skipstorm,indian,cheap,Tribeca - Manhattan,3,true,10:59,22:29
+340,Divape,afghani,cheap,Morrisania - Bronx,0,true,9:41,21:11
+341,Quinu,malaysian,cheap,Sunset Park - Brooklyn,2,true,10:17,20:26
+342,Voomm,afghani,expensive,Mariner's Harbor - Staten Island,4,true,11:22,21:39
+343,Topdrive,italian,expensive,Todt Hill - Staten Island,3,true,10:45,21:34
+344,Gigabox,italian,expensive,Douglaston - Queens,4,true,9:42,20:47
+345,Jabbertype,indian,expensive,Brighton Beach - Brooklyn,5,false,9:21,21:51
+346,Wikibox,indian,medium,Times Square - Manhattan,3,false,11:07,21:49
+347,Dynabox,italian,medium,Heartland Village - Staten Island,4,false,10:04,22:10
+348,Photofeed,malaysian,cheap,Woodside - Queens,5,true,10:34,20:47
+349,Janyx,afghani,medium,Forest Hills Gardens - Queens,4,false,10:22,21:27
+350,Divavu,afghani,cheap,Utopia - Queens,1,false,9:45,20:49
+351,Rooxo,indian,cheap,Emerson Hill - Staten Island,3,false,10:21,22:51
+352,Oyope,thai,medium,Stapleton - Staten Island,1,false,10:39,20:13
+353,Eare,american,expensive,Clinton - Manhattan,5,true,9:42,21:36
+354,Bubblemix,american,medium,Norwood - Bronx,4,false,10:33,21:42
+355,Voonix,thai,expensive,East New York - Brooklyn,5,false,11:07,23:19
+356,Rhybox,malaysian,expensive,Hudson Yards - Manhattan,1,true,10:33,21:34
+357,Topiczoom,afghani,medium,Concord - Staten Island,3,true,10:39,20:53
+358,Voonix,american,medium,NoHo - Manhattan,4,true,9:18,21:04
+359,Livetube,afghani,medium,St. George - Staten Island,2,false,10:42,23:11
+360,Skivee,thai,medium,New Lots - Brooklyn,4,false,10:38,22:31
+361,Shufflebeat,chinese,medium,Rosedale - Queens,5,true,10:26,23:22
+362,Yambee,chinese,cheap,Midwood - Brooklyn,3,false,9:00,21:01
+363,Ntag,indian,expensive,Mill Island - Brooklyn,3,false,11:29,21:18
+364,Voonder,afghani,expensive,Clinton - Manhattan,2,false,9:54,22:46
+365,Camimbo,thai,cheap,Bath Beach - Brooklyn,2,false,9:20,22:18
+366,Demimbu,afghani,expensive,East Tremont - Bronx,5,true,10:17,20:24
+367,Meevee,indian,medium,Red Hook - Brooklyn,0,true,9:03,22:52
+368,Voonte,american,cheap,Battery Park City - Manhattan,4,false,11:15,21:55
+369,Trudeo,american,cheap,Pelham Gardens - Bronx,4,true,9:53,20:02
+370,Jabberbean,chinese,cheap,Howard Beach - Queens,0,true,9:29,20:33
+371,Leenti,chinese,cheap,Steinway - Queens,2,false,11:04,21:35
+372,Voolia,malaysian,medium,Chelsea - Staten Island,5,true,11:18,20:23
+373,Flashpoint,afghani,expensive,Eastchester - Bronx,2,true,9:16,23:07
+374,Abata,american,cheap,West Village - Manhattan,4,true,10:59,21:09
+375,Innotype,american,medium,East Flatbush - Brooklyn,2,false,9:02,20:24
+376,Tagtune,indian,expensive,Little Neck - Queens,2,true,10:14,22:02
+377,Photobean,indian,expensive,Bay Terrace - Queens,5,true,11:28,22:30
+378,Ozu,chinese,medium,Battery Park City - Manhattan,1,false,9:39,21:07
+379,Tagtune,chinese,medium,Fresh Meadows - Queens,1,true,9:56,20:55
+380,Rhynoodle,chinese,medium,Little Neck - Queens,4,false,9:29,21:16
+381,Izio,italian,cheap,Country Club - Bronx,0,false,10:24,22:30
+382,Gigashots,italian,expensive,Arlington - Staten Island,0,true,11:09,22:14
+383,Topicstorm,malaysian,cheap,City Island  - Bronx,3,false,10:48,22:30
+384,Zoonoodle,malaysian,medium,Laurelton - Queens,1,false,10:32,23:21
+385,Realbuzz,malaysian,cheap,Clinton Hill - Brooklyn,4,false,10:49,21:06
+386,Skyble,indian,expensive,Upper East Side - Manhattan,1,false,9:26,22:37
+387,Skyndu,chinese,cheap,Manhattanville - Manhattan,5,true,11:19,21:42
+388,Thoughtmix,malaysian,expensive,Arrochar - Staten Island,0,false,10:24,22:09
+389,Chatterbridge,american,medium,Pelham Gardens - Bronx,1,true,10:40,20:27
+390,Browsebug,indian,expensive,Todt Hill - Staten Island,5,false,9:07,20:59
+391,Kimia,thai,cheap,South Jamaica - Queens,5,false,9:12,22:51
+392,Meembee,malaysian,cheap,Mott Haven - Bronx,0,true,9:59,20:32
+393,Meeveo,malaysian,medium,Sheepshead Bay - Brooklyn,4,false,11:13,21:15
+394,Brightbean,thai,medium,Bergen Beach - Brooklyn,0,false,10:18,21:02
+395,Photobean,italian,medium,Southside - Brooklyn,2,false,9:59,22:55
+396,Eamia,afghani,medium,Grasmere - Staten Island,5,true,11:08,21:21
+397,Dazzlesphere,malaysian,cheap,Upper West Side - Manhattan,1,true,9:43,20:56
+398,Demimbu,chinese,medium,Mott Haven - Bronx,1,false,10:50,22:22
+399,Livepath,italian,cheap,Breezy Point - Queens,3,false,10:21,20:02
+400,Quinu,american,cheap,Pelham Parkway - Bronx,1,false,10:20,21:32
+401,Youbridge,american,medium,Lower East Side - Manhattan,5,false,10:58,20:31
+402,Leexo,indian,cheap,Elmhurst - Queens,5,true,10:56,20:32
+403,Buzzbean,thai,expensive,Woodrow - Staten Island,1,true,9:25,21:44
+404,Ntags,afghani,medium,Corona  - Queens,4,false,9:47,22:23
+405,Fatz,american,cheap,Bedford-Stuyvesant - Brooklyn,0,false,11:16,20:40
+406,Oyoba,chinese,medium,Fulton Ferry - Brooklyn,4,true,10:56,20:44
+407,Youtags,afghani,cheap,Whitestone - Queens,5,false,10:04,21:37
+408,Yamia,thai,medium,Carroll Gardens - Brooklyn,3,false,9:10,22:15
+409,Realcube,indian,cheap,Murray Hill - Queens,2,false,9:50,20:05
+410,InnoZ,afghani,cheap,Queens Village - Queens,1,true,9:21,22:05
+411,Twimm,thai,medium,Chinatown - Manhattan,4,false,9:19,20:53
+412,Dabtype,italian,cheap,Belle Harbor - Queens,5,true,9:54,20:19
+413,Cogilith,malaysian,medium,Boerum Hill - Brooklyn,5,false,10:24,22:34
+414,Cogilith,thai,medium,Bellaire - Queens,1,false,9:32,23:11
+415,Kanoodle,thai,expensive,Prospect Heights - Brooklyn,3,false,10:24,20:04
+416,Gigabox,afghani,expensive,Maspeth - Queens,5,false,9:16,23:13
+417,Feedfire,thai,medium,Woodhaven - Queens,4,true,9:54,20:09
+418,BlogXS,american,expensive,Sea Gate - Brooklyn,0,false,9:25,22:36
+419,Meembee,american,expensive,Borough Park - Brooklyn,4,true,10:28,21:47
+420,Aivee,afghani,medium,Greenridge - Staten Island,0,true,9:49,21:14
+421,Tanoodle,american,cheap,East New York - Brooklyn,3,false,10:13,22:41
+422,Feednation,malaysian,cheap,Sea Gate - Brooklyn,2,true,11:16,21:50
+423,Quimba,chinese,medium,Jackson Heights - Queens,4,true,11:02,20:41
+424,Tavu,indian,cheap,Morningside Heights - Manhattan,2,false,9:56,22:20
+425,Muxo,american,cheap,Spuyten Duyvil - Bronx,0,true,11:00,20:04
+426,Yozio,chinese,cheap,Castleton Corners - Staten Island,4,false,10:48,22:21
+427,Thoughtmix,indian,medium,Unionport - Bronx,5,true,10:48,22:22
+428,Livetube,malaysian,medium,Port Ivory - Staten Island,4,false,9:16,20:41
+429,InnoZ,thai,expensive,North Corona - Queens,1,false,11:20,22:31
+430,Devcast,afghani,medium,Midtown South - Manhattan,4,false,9:28,23:04
+431,Centizu,afghani,cheap,Williamsburg - Brooklyn,0,false,10:18,21:44
+432,Abatz,malaysian,medium,Baychester - Bronx,4,true,10:12,20:44
+433,Oodoo,malaysian,cheap,Roosevelt Island - Manhattan,1,false,10:58,22:29
+434,Jetpulse,indian,expensive,Upper West Side - Manhattan,3,true,10:07,22:27
+435,Chatterpoint,afghani,medium,Sunnyside - Staten Island,3,true,11:16,21:33
+436,Jetwire,indian,cheap,Claremont - Bronx,2,true,10:02,20:58
+437,Browsecat,american,medium,Howard Beach - Queens,2,true,9:51,20:47
+438,Dabjam,indian,medium,Long Island City - Queens,5,true,9:53,22:16
+439,Browsetype,malaysian,expensive,Astoria Heights - Queens,1,false,9:34,23:13
+440,Thoughtblab,chinese,cheap,Bay Terrace - Staten Island,1,true,10:27,22:49
+441,Cogibox,malaysian,medium,Bay Ridge - Brooklyn,0,false,10:48,23:25
+442,Pixoboo,american,cheap,Rockaway Park - Queens,2,true,9:52,20:04
+443,Thoughtworks,american,medium,East Village - Manhattan,3,true,10:32,20:05
+444,Babblestorm,malaysian,cheap,Tompkinsville - Staten Island,2,true,10:55,20:30
+445,Skiba,indian,medium,Prospect Park South  - Brooklyn,1,true,9:10,21:11
+446,Wikibox,thai,cheap,Oakland Gardens - Queens,5,true,10:08,22:35
+447,Dabfeed,chinese,medium,Unionport - Bronx,1,false,9:56,22:20
+448,Zoombox,indian,medium,Lenox Hill - Manhattan,2,false,9:24,20:51
+449,Livetube,thai,medium,Sandy Ground - Staten Island,1,true,11:27,21:11
+450,Wordtune,afghani,expensive,Arden Heights - Staten Island,3,true,9:29,20:02
+451,Flipstorm,chinese,cheap,Woodrow - Staten Island,2,false,10:09,20:45
+452,Topiczoom,afghani,expensive,Remsen Village - Brooklyn,0,true,10:27,21:36
+453,Izio,chinese,cheap,Laurelton - Queens,4,false,11:10,22:21
+454,Snaptags,italian,expensive,Todt Hill - Staten Island,0,false,10:29,21:48
+455,Skyvu,thai,cheap,Graniteville - Staten Island,4,false,10:14,22:50
+456,Flashpoint,italian,expensive,Northside - Brooklyn,2,true,10:02,21:34
+457,Meetz,italian,medium,Queensbridge - Queens,0,true,11:22,20:55
+458,Jatri,american,cheap,West Brighton - Staten Island,2,true,10:36,20:34
+459,Rhynyx,chinese,cheap,Blissville - Queens,2,true,11:01,22:45
+460,Bubblemix,thai,expensive,Gowanus - Brooklyn,4,true,11:27,21:39
+461,Browsedrive,italian,medium,Corona  - Queens,0,false,9:34,21:29
+462,Gabtune,malaysian,cheap,Mill Island - Brooklyn,2,false,10:04,21:55
+463,Browsebug,chinese,expensive,Hunts Point - Bronx,3,false,9:33,20:28
+464,Eamia,indian,cheap,Brookville - Queens,2,false,9:59,23:12
+465,Tekfly,italian,medium,Steinway - Queens,1,false,10:27,21:31
+466,Skipfire,chinese,expensive,Weeksville - Brooklyn,4,false,10:59,20:17
+467,Skimia,indian,medium,Sandy Ground - Staten Island,3,false,9:14,20:58
+468,Rhyloo,indian,expensive,Manhattan Valley - Manhattan,0,true,9:43,23:08
+469,Thoughtbeat,afghani,expensive,Mill Island - Brooklyn,5,true,9:03,20:06
+470,Wikivu,italian,cheap,Beechhurst - Queens,3,true,9:13,20:18
+471,Devify,italian,medium,Neponsit - Queens,0,true,10:57,21:51
+472,Kazu,american,expensive,Roxbury - Queens,0,false,9:08,20:16
+473,Yodel,chinese,cheap,Brookville - Queens,3,false,10:34,21:50
+474,Vinder,malaysian,medium,SoHo - Manhattan,2,true,9:09,21:30
+475,Riffwire,thai,cheap,Roxbury - Queens,1,true,9:32,21:39
+476,Youopia,thai,medium,Greenpoint - Brooklyn,1,false,11:14,21:05
+477,Lazz,afghani,medium,Norwood - Bronx,5,true,10:16,22:40
+478,Kimia,thai,medium,Riverdale - Bronx,4,true,9:57,20:37
+479,Skinix,indian,expensive,Mount Eden - Bronx,3,true,10:18,22:35
+480,Gabvine,american,expensive,Yorkville - Manhattan,5,false,10:36,22:12
+481,Meembee,chinese,cheap,Lenox Hill - Manhattan,4,false,9:57,21:52
+482,Feedmix,italian,cheap,Borough Park - Brooklyn,5,false,9:04,23:15
+483,Shufflester,american,expensive,Willowbrook - Staten Island,0,false,10:57,20:54
+484,Skipstorm,american,cheap,New Springville - Staten Island,4,true,9:23,21:04
+485,Skinder,chinese,medium,Oakwood - Staten Island,2,false,10:21,21:56
+486,Ntag,chinese,medium,Ravenswood - Queens,3,true,9:48,23:23
+487,Jazzy,american,medium,Astoria Heights - Queens,3,false,10:48,21:14
+488,Realbridge,italian,cheap,Bushwick - Brooklyn,1,false,9:06,22:10
+489,BlogXS,chinese,cheap,Highbridge - Bronx,2,false,9:35,21:19
+490,Linktype,chinese,medium,Pomonok - Queens,3,false,9:31,21:03
+491,Kwimbee,indian,medium,Bay Terrace - Staten Island,3,true,10:00,22:50
+492,Dabjam,american,expensive,Ridgewood - Queens,3,true,11:12,23:11
+493,Kare,indian,cheap,Laurelton - Queens,3,true,9:18,23:29
+494,Photojam,malaysian,expensive,Highland Park - Brooklyn,3,false,10:39,23:10
+495,Kare,italian,medium,Parkchester - Bronx,2,true,9:49,21:05
+496,Eabox,malaysian,medium,Greenwich Village - Manhattan,1,false,11:04,21:52
+497,Zava,thai,expensive,Van Nest - Bronx,4,true,10:37,23:16
+498,Wikizz,italian,cheap,Floral Park - Queens,0,false,11:28,22:06
+499,Rhybox,indian,expensive,Rochdale - Queens,1,false,9:21,20:43
+500,Ozu,american,expensive,Yorkville - Manhattan,4,true,11:00,23:12
+501,Meejo,italian,expensive,Grant City - Staten Island,2,false,9:44,21:34
+502,Layo,chinese,expensive,Heartland Village - Staten Island,5,true,9:02,20:30
+503,Jetwire,malaysian,medium,Forest Hills - Queens,5,true,9:40,22:23
+504,Realbuzz,malaysian,medium,Co-op City - Bronx,2,false,10:13,20:16
+505,Feedfish,afghani,cheap,Great Kills - Staten Island,1,false,11:28,21:00
+506,Kazu,italian,expensive,Mill Basin - Brooklyn,4,false,9:52,23:22
+507,Rhyzio,malaysian,expensive,Morris Heights - Bronx,0,true,10:21,22:46
+508,Edgewire,italian,medium,Claremont - Bronx,3,false,10:14,21:34
+509,Midel,italian,medium,Glen Oaks - Queens,0,true,9:48,22:12
+510,Realcube,afghani,expensive,Weeksville - Brooklyn,1,true,11:11,22:57
+511,Photojam,thai,medium,Travis - Staten Island,4,false,11:16,22:59
+512,Jabbersphere,italian,expensive,SoHo - Manhattan,3,false,10:13,23:26
+513,Fliptune,thai,expensive,Jamaica Hills - Queens,5,true,9:27,20:34
+514,Trupe,indian,cheap,Greenpoint - Brooklyn,2,true,9:43,21:51
+515,Twimm,indian,cheap,Country Club - Bronx,0,false,10:58,20:11
+516,Aivee,american,medium,Cobble Hill - Brooklyn,5,false,9:55,20:25
+517,Babbleblab,chinese,cheap,Queensbridge - Queens,3,true,9:24,20:56
+518,Eamia,afghani,expensive,Lindenwood - Queens,2,false,9:40,23:08
+519,Avavee,american,expensive,Williamsburg - Brooklyn,1,true,9:36,23:02
+520,Realblab,italian,cheap,Bellerose - Queens,1,false,10:07,21:14
+521,Cogidoo,italian,medium,Gowanus - Brooklyn,4,true,9:48,22:32
+522,Twinte,thai,medium,Rockaway Park - Queens,1,true,10:29,20:35
+523,Fatz,thai,medium,Glen Oaks - Queens,4,true,9:43,22:34
+524,Buzzster,indian,medium,Morris Heights - Bronx,4,true,10:48,22:31
+525,Gabtune,afghani,cheap,Concourse Village - Bronx,2,false,10:04,21:33
+526,Centizu,malaysian,medium,St. Albans - Queens,0,false,11:13,21:11
+527,Youspan,afghani,cheap,Hillcrest - Queens,0,false,10:17,21:56
+528,Yacero,afghani,expensive,Kensington - Brooklyn,4,false,10:03,20:21
+529,Skyvu,afghani,cheap,Lenox Hill - Manhattan,5,true,9:50,22:39
+530,Thoughtstorm,chinese,expensive,Douglaston - Queens,1,false,11:03,21:18
+531,Yacero,afghani,cheap,Park Slope - Brooklyn,2,false,9:38,22:43
+532,Jaloo,afghani,medium,Little Neck - Queens,1,true,10:33,20:13
+533,Divavu,malaysian,medium,Lindenwood - Queens,2,false,9:05,21:04
+534,Quaxo,malaysian,expensive,Richmond Valley - Staten Island,1,false,10:37,23:25
+535,Yodo,italian,cheap,Georgetown - Brooklyn,0,true,9:22,20:46
+536,Skaboo,indian,cheap,Holliswood - Queens,1,false,9:19,22:12
+537,Trudoo,chinese,expensive,Shore Acres - Staten Island,0,false,9:28,20:28
+538,Youtags,afghani,expensive,Ocean Parkway - Brooklyn,3,true,10:13,22:09
+539,Aibox,american,expensive,Central Harlem - Manhattan,0,true,11:26,20:08
+540,Feedmix,american,medium,Yorkville - Manhattan,5,true,10:35,23:29
+541,Jaxnation,malaysian,expensive,City Island  - Bronx,1,false,10:04,23:19
+542,Janyx,thai,cheap,Sutton Place - Manhattan,1,false,10:03,20:59
+543,Realbridge,afghani,medium,Woodside - Queens,0,true,10:58,23:06
+544,Teklist,indian,expensive,Homecrest - Brooklyn,1,true,10:13,23:14
+545,Geba,afghani,medium,University Heights - Bronx,1,true,9:10,21:56
+546,Podcat,chinese,cheap,Wingate - Brooklyn,5,true,11:14,21:03
+547,Wordtune,chinese,cheap,East Harlem - Manhattan,2,true,10:01,23:02
+548,Dabjam,american,cheap,Rockaway Park - Queens,3,true,9:25,23:21
+549,Wikibox,indian,cheap,Flushing - Queens,2,false,10:49,23:01
+550,Skinte,indian,expensive,Jamaica Estates - Queens,4,false,11:02,22:55
+551,Tagchat,chinese,expensive,Fox Hills - Staten Island,1,false,9:25,23:13
+552,Layo,italian,expensive,Edgewater Park - Bronx,2,false,9:35,23:07
+553,Leenti,thai,cheap,Belle Harbor - Queens,3,false,10:00,22:44
+554,Cogidoo,afghani,cheap,New Brighton - Staten Island,4,false,9:25,23:10
+555,Agivu,italian,medium,Concourse - Bronx,0,false,10:54,22:39
+556,Vipe,chinese,medium,Belmont - Bronx,1,true,9:07,23:26
+557,Oyope,indian,medium,Beach - Brooklyn,4,false,9:59,21:54
+558,Skilith,thai,medium,Far Rockaway - Queens,4,false,9:39,21:14
+559,Flashspan,afghani,cheap,Eastchester - Bronx,4,false,10:51,21:35
+560,Agimba,american,expensive,NoHo - Manhattan,4,false,9:21,22:39
+561,Aibox,indian,cheap,Port Morris - Bronx,4,false,10:37,23:23
+562,Oyoyo,indian,cheap,Arden Heights - Staten Island,3,false,10:25,21:53
+563,Flashspan,afghani,cheap,East Elmhurst - Queens,5,false,10:48,21:55
+564,Aibox,indian,medium,Astoria Heights - Queens,5,true,9:29,23:27
+565,Thoughtmix,malaysian,cheap,Astoria - Queens,2,false,9:58,21:17
+566,Dynabox,italian,expensive,Gowanus - Brooklyn,0,true,11:03,21:57
+567,Twitterlist,chinese,medium,Murray Hill - Queens,1,true,10:53,23:14
+568,Flashspan,american,expensive,Upper East Side - Manhattan,3,false,10:37,21:04
+569,Meejo,afghani,medium,Paerdegat Basin - Brooklyn,5,false,10:14,21:47
+570,Zoomcast,american,expensive,Dongan Hills - Staten Island,1,false,9:36,20:10
+571,Avaveo,malaysian,expensive,Clinton Hill - Brooklyn,3,true,9:43,22:20
+572,Browsebug,afghani,expensive,Blissville - Queens,1,false,9:01,20:33
+573,Skajo,chinese,expensive,Breezy Point - Queens,3,false,9:57,20:58
+574,Ooba,thai,expensive,Westerleigh - Staten Island,2,false,9:55,21:08
+575,Eare,italian,cheap,Southside - Brooklyn,2,false,10:20,22:05
+576,Zoombeat,american,cheap,Somerville - Queens,0,true,10:00,21:20
+577,Thoughtbridge,malaysian,medium,Clason Point - Bronx,2,false,11:07,23:15
+578,LiveZ,afghani,medium,East Flatbush - Brooklyn,3,false,11:14,21:06
+579,Tazzy,italian,cheap,East Harlem - Manhattan,0,false,11:01,20:12
+580,Topicware,chinese,medium,Edgewater Park - Bronx,4,false,9:36,20:25
+581,Yakijo,indian,medium,Civic Center - Manhattan,3,true,9:46,20:39
+582,Twitterlist,italian,cheap,Richmond Hill - Queens,0,true,9:22,20:25
+583,Meemm,thai,medium,Central Harlem - Manhattan,1,false,10:58,23:29
+584,Muxo,italian,medium,Borough Park - Brooklyn,2,false,11:20,22:51
+585,Agimba,thai,expensive,Shore Acres - Staten Island,3,true,9:24,20:58
+586,Thoughtstorm,indian,cheap,NoHo - Manhattan,0,true,9:50,20:19
+587,Browsebug,chinese,medium,Bay Ridge - Brooklyn,2,true,9:35,22:26
+588,Kazio,thai,cheap,Astoria Heights - Queens,5,false,10:31,20:53
+589,Digitube,thai,expensive,Forest Hills - Queens,3,false,11:27,22:12
+590,Meezzy,italian,cheap,Astoria Heights - Queens,1,false,9:00,21:42
+591,Quatz,american,cheap,Manhattan Valley - Manhattan,0,false,10:36,21:08
+592,Nlounge,thai,medium,Broad Channel - Queens,4,false,9:50,20:06
+593,Zoovu,italian,cheap,Grasmere - Staten Island,1,false,10:15,20:48
+594,Jazzy,italian,medium,Kensington - Brooklyn,2,false,9:17,22:29
+595,Eayo,thai,cheap,Pelham Gardens - Bronx,1,true,11:01,21:04
+596,Jetwire,chinese,medium,New Dorp Beach - Staten Island,0,true,9:47,21:33
+597,Riffpedia,chinese,cheap,Upper East Side - Manhattan,4,true,10:10,21:13
+598,Edgewire,indian,cheap,Grant City - Staten Island,1,true,10:36,20:52
+599,Kwilith,italian,cheap,Lenox Hill - Manhattan,2,false,10:08,22:15
+600,Quamba,afghani,medium,Prospect Heights - Brooklyn,1,true,11:06,23:21
+601,Jabbersphere,malaysian,medium,Douglaston - Queens,2,true,11:08,23:15
+602,Lajo,american,cheap,Brownsville - Brooklyn,4,true,10:03,23:14
+603,Myworks,indian,cheap,Williamsbridge - Bronx,5,true,9:07,21:39
+604,Twiyo,american,expensive,Bronxdale - Bronx,0,false,9:41,20:50
+605,Feedmix,italian,cheap,Williamsbridge - Bronx,4,false,9:51,20:37
+606,Oyoloo,afghani,medium,Old Town - Staten Island,0,false,11:22,20:14
+607,Gabtune,american,expensive,Malba - Queens,2,false,9:29,21:14
+608,Zoonder,indian,expensive,Malba - Queens,0,true,10:35,22:57
+609,Yoveo,malaysian,expensive,Eastchester - Bronx,5,false,10:35,21:07
+610,Eire,indian,cheap,Whitestone - Queens,3,true,10:49,21:15
+611,Katz,chinese,expensive,Morrisania - Bronx,5,false,11:12,20:48
+612,Realcube,afghani,medium,SoHo - Manhattan,3,false,10:03,20:06
+613,Wordware,indian,medium,Holliswood - Queens,2,true,9:47,21:16
+614,Dabjam,malaysian,cheap,Morningside Heights - Manhattan,2,true,10:49,22:32
+615,Jabbercube,thai,expensive,Stuyvesant Town - Manhattan,0,false,10:50,22:40
+616,Dablist,italian,expensive,Hunts Point - Bronx,1,false,9:19,20:02
+617,Rhynyx,thai,expensive,Park Slope - Brooklyn,4,true,9:47,21:04
+618,Kwideo,american,expensive,Cypress Hills - Brooklyn,2,false,10:04,21:17
+619,Feedmix,american,cheap,Arrochar - Staten Island,2,true,9:26,20:04
+620,Feedspan,chinese,medium,SoHo - Manhattan,5,false,11:10,22:55
+621,Bubblemix,indian,expensive,New Dorp - Staten Island,5,true,10:35,22:31
+622,Tazz,american,expensive,Gowanus - Brooklyn,2,false,9:46,23:23
+623,Kwilith,malaysian,expensive,Chinatown - Manhattan,0,false,11:27,23:06
+624,Shuffletag,afghani,cheap,Beach - Brooklyn,3,true,10:50,21:44
+625,Trilia,afghani,medium,Bellaire - Queens,0,true,11:14,20:08
+626,Eidel,italian,expensive,South Ozone Park - Queens,4,true,9:45,23:04
+627,Centizu,thai,expensive,Grant City - Staten Island,2,true,9:24,23:03
+628,Wordware,italian,cheap,Castle Hill - Bronx,0,false,9:10,20:06
+629,Shuffletag,indian,expensive,Hammels - Queens,1,false,11:29,22:06
+630,Mymm,malaysian,expensive,Murray Hill - Manhattan,2,true,9:48,20:49
+631,Meembee,thai,medium,Manhattanville - Manhattan,4,false,11:16,23:12
+632,Rhyzio,thai,expensive,Baychester - Bronx,2,true,11:08,23:02
+633,Fivebridge,italian,cheap,Tudor City - Manhattan,5,false,11:03,20:08
+634,Tekfly,thai,medium,Belmont - Bronx,4,false,9:22,21:02
+635,Zooveo,thai,expensive,Crown Heights - Brooklyn,3,true,11:05,20:49
+636,Buzzshare,malaysian,medium,Grymes Hill - Staten Island,1,false,10:07,20:30
+637,Realcube,afghani,expensive,East Harlem - Manhattan,3,true,10:29,20:18
+638,Browseblab,italian,cheap,Corona  - Queens,3,false,9:09,21:21
+639,Twinte,malaysian,expensive,Erasmus - Brooklyn,3,false,10:32,20:27
+640,Aivee,afghani,medium,Charleston - Staten Island,5,false,11:19,21:12
+641,Yacero,indian,expensive,Clinton - Manhattan,0,false,10:04,20:11
+642,Voonder,thai,expensive,Astoria - Queens,2,false,9:29,20:02
+643,Dabfeed,italian,cheap,Rochdale - Queens,0,false,10:58,20:08
+644,Twitterbridge,malaysian,cheap,Civic Center - Manhattan,5,true,9:12,22:03
+645,Myworks,afghani,medium,Maspeth - Queens,5,true,10:05,20:08
+646,Kazu,italian,cheap,Oakwood - Staten Island,4,true,10:08,21:10
+647,Zoomzone,american,expensive,Schuylerville - Bronx,0,true,10:21,22:01
+648,Rhyzio,malaysian,medium,Flushing - Queens,3,true,10:54,20:38
+649,Bubblemix,american,medium,Kingsbridge Heights - Bronx,0,false,9:22,20:37
+650,Vidoo,american,medium,Fort Greene - Brooklyn,5,false,9:02,22:51
+651,Katz,afghani,cheap,Midwood - Brooklyn,4,false,9:21,21:47
+652,Nlounge,chinese,medium,Sheepshead Bay - Brooklyn,1,true,11:29,22:46
+653,Wikizz,indian,expensive,Charleston - Staten Island,4,false,9:23,23:19
+654,Mynte,afghani,cheap,Castleton Corners - Staten Island,5,true,11:18,21:53
+655,Kanoodle,american,cheap,Howard Beach - Queens,3,false,9:24,21:16
+656,Thoughtsphere,malaysian,medium,Gramercy - Manhattan,5,false,11:17,21:29
+657,Katz,malaysian,cheap,Springfield Gardens - Queens,0,false,10:48,23:12
+658,Blogtags,malaysian,expensive,Greenwich Village - Manhattan,0,true,9:33,21:34
+659,Rhyzio,chinese,expensive,Edenwald - Bronx,0,false,10:45,21:37
+660,Vitz,thai,medium,Kingsbridge - Bronx,0,true,10:51,21:34
+661,Innotype,chinese,cheap,Bay Terrace - Staten Island,0,true,9:57,21:23
+662,Feedspan,indian,expensive,West Village - Manhattan,3,true,11:11,21:21
+663,Realpoint,afghani,medium,Pelham Bay - Bronx,4,false,9:50,20:33
+664,Quire,thai,cheap,South Ozone Park - Queens,4,true,9:27,21:41
+665,Trudeo,thai,cheap,Emerson Hill - Staten Island,3,true,10:22,23:21
+666,Skipfire,malaysian,medium,Shore Acres - Staten Island,3,true,10:52,21:39
+667,Reallinks,chinese,expensive,Throgs Neck - Bronx,1,true,9:14,21:36
+668,Dynava,chinese,cheap,Bronxdale - Bronx,0,false,11:09,20:05
+669,Eazzy,american,cheap,Bronxdale - Bronx,1,true,11:07,22:36
+670,Rhynyx,italian,medium,Forest Hills Gardens - Queens,2,false,11:08,20:48
+671,Shufflebeat,afghani,cheap,Jackson Heights - Queens,2,false,9:59,23:02
+672,Shuffletag,malaysian,cheap,Sunnyside Gardens - Queens,3,false,10:40,21:18
+673,Yoveo,chinese,expensive,Springfield Gardens - Queens,2,false,10:44,22:21
+674,Brightdog,chinese,medium,Baychester - Bronx,0,false,9:07,21:27
+675,Flashspan,italian,medium,Hudson Yards - Manhattan,0,false,9:56,20:56
+676,Skipfire,chinese,expensive,Union Square - Manhattan,0,true,9:40,21:22
+677,Blognation,afghani,medium,Civic Center - Manhattan,1,false,9:32,21:34
+678,Browsedrive,italian,expensive,Prospect Park South  - Brooklyn,4,false,11:29,20:47
+679,Photojam,american,cheap,Randall Manor - Staten Island,5,false,9:38,20:02
+680,Pixonyx,indian,cheap,Mariner's Harbor - Staten Island,2,true,10:42,21:28
+681,Tazzy,chinese,expensive,Schuylerville - Bronx,0,true,10:49,20:10
+682,Thoughtbridge,italian,expensive,Little Italy - Manhattan,1,true,9:08,22:07
+683,Bubblebox,indian,cheap,Forest Hills Gardens - Queens,5,true,9:08,20:02
+684,Twinder,chinese,expensive,Homecrest - Brooklyn,2,false,9:13,22:10
+685,Avavee,chinese,expensive,Claremont - Bronx,4,true,10:44,20:37
+686,Skiptube,thai,cheap,Brownsville - Brooklyn,1,false,9:52,22:52
+687,Tekfly,thai,cheap,Dongan Hills - Staten Island,5,false,10:02,23:22
+688,Gabvine,american,cheap,Grymes Hill - Staten Island,5,true,11:01,23:06
+689,Jabbersphere,indian,expensive,Fox Hills - Staten Island,1,false,9:15,22:13
+690,Zoonder,thai,cheap,Spuyten Duyvil - Bronx,5,true,9:07,23:09
+691,Photojam,american,medium,Edgemere - Queens,0,true,10:53,21:02
+692,Rhycero,american,expensive,NoHo - Manhattan,3,false,10:01,21:23
+693,Shufflester,indian,expensive,Paerdegat Basin - Brooklyn,3,false,10:04,20:06
+694,Dazzlesphere,american,medium,Bayswater - Queens,1,true,10:26,21:24
+695,Wordpedia,thai,medium,Corona  - Queens,5,true,10:20,22:11
+696,Brainsphere,italian,expensive,Richmond Town - Staten Island,5,true,10:39,23:17
+697,Mynte,chinese,expensive,Midtown - Manhattan,5,false,10:18,23:18
+698,Skimia,chinese,cheap,Baychester - Bronx,1,true,9:16,21:11
+699,Lazzy,afghani,expensive,Steinway - Queens,2,true,11:19,21:22
+700,Ntags,chinese,expensive,Astoria - Queens,4,false,11:20,20:45
+701,Pixonyx,malaysian,expensive,Howland Hook - Staten Island,0,false,11:24,21:46
+702,Dablist,american,expensive,Sea Gate - Brooklyn,2,false,10:16,21:33
+703,Youfeed,indian,expensive,New Dorp - Staten Island,1,true,11:19,20:12
+704,Topdrive,indian,cheap,Queensboro Hill - Queens,1,false,9:19,23:14
+705,Avaveo,chinese,medium,North Riverdale - Bronx,0,true,11:12,20:31
+706,Ozu,afghani,medium,Steinway - Queens,2,true,9:55,20:33
+707,Brainsphere,malaysian,cheap,Old Town - Staten Island,4,false,10:20,22:36
+708,Centidel,malaysian,cheap,Baychester - Bronx,5,true,9:29,23:28
+709,Twitterlist,american,expensive,Emerson Hill - Staten Island,0,false,10:36,20:41
+710,Thoughtbridge,indian,medium,Chinatown - Manhattan,2,true,10:37,21:22
+711,Brightbean,indian,expensive,Malba - Queens,5,true,10:48,20:31
+712,Kamba,indian,expensive,Allerton - Bronx,5,true,9:33,22:05
+713,Blogtags,american,cheap,City Island  - Bronx,5,true,11:26,20:12
+714,Skinix,indian,cheap,Bay Terrace - Staten Island,5,true,9:34,22:53
+715,Zoomdog,afghani,cheap,Murray Hill - Manhattan,3,false,11:05,20:21
+716,Quimba,malaysian,medium,Fox Hills - Staten Island,5,false,10:23,21:06
+717,Skalith,thai,expensive,Arden Heights - Staten Island,1,false,10:49,20:54
+718,Demivee,thai,cheap,Coney Island - Brooklyn,0,false,11:23,21:19
+719,Realblab,afghani,cheap,Sheepshead Bay - Brooklyn,3,true,9:27,23:21
+720,Twimbo,chinese,cheap,Rosebank - Staten Island,3,true,11:17,23:19
+721,Yambee,italian,expensive,Westerleigh - Staten Island,3,false,11:23,21:55
+722,Kayveo,malaysian,cheap,Bergen Beach - Brooklyn,1,true,9:30,23:15
+723,Vinder,italian,medium,Brighton Beach - Brooklyn,2,true,10:38,23:27
+724,Nlounge,american,cheap,Marine Park - Brooklyn,2,true,11:19,21:26
+725,Riffwire,american,expensive,Bloomfield - Staten Island,3,true,9:10,21:11
+726,Eare,afghani,cheap,Kingsbridge Heights - Bronx,1,false,9:01,22:04
+727,Dabshots,afghani,expensive,City Line - Brooklyn,1,false,9:19,22:24
+728,Topicblab,italian,expensive,Bensonhurst - Brooklyn,2,false,10:19,20:15
+729,Buzzbean,thai,cheap,Upper East Side - Manhattan,0,true,9:44,22:55
+730,Thoughtstorm,chinese,medium,Starrett City - Brooklyn,3,true,9:03,20:45
+731,Photobean,american,cheap,East Village - Manhattan,3,false,10:15,22:00
+732,Agimba,malaysian,medium,Far Rockaway - Queens,3,true,11:13,20:36
+733,Skibox,afghani,expensive,Downtown Brooklyn - Brooklyn,1,true,10:37,22:50
+734,Mita,italian,cheap,Co-op City - Bronx,1,true,11:14,21:01
+735,Fliptune,indian,medium,West Farms - Bronx,2,true,11:21,21:16
+736,Ainyx,italian,medium,Mount Hope - Bronx,3,true,10:34,23:20
+737,Yoveo,afghani,medium,Edgemere - Queens,2,true,11:16,21:07
+738,Skajo,american,cheap,Lefrak City - Queens,0,false,9:22,21:04
+739,Brightbean,chinese,expensive,Howard Beach - Queens,2,true,10:53,20:16
+740,Dabfeed,afghani,expensive,Sunnyside Gardens - Queens,0,false,11:13,22:00
+741,Jabberbean,italian,cheap,Central Harlem - Manhattan,3,true,10:29,20:35
+742,Photobug,american,cheap,Central Harlem - Manhattan,0,true,9:38,20:10
+743,Dabshots,chinese,expensive,Hunts Point - Bronx,1,false,11:14,22:45
+744,Babblestorm,italian,medium,Jackson Heights - Queens,5,false,9:53,23:14
+745,Twitterlist,afghani,cheap,Upper West Side - Manhattan,5,true,10:50,21:53
+746,Pixoboo,italian,expensive,Rochdale - Queens,4,false,10:17,21:52
+747,Meemm,malaysian,medium,Mariner's Harbor - Staten Island,3,false,9:50,22:34
+748,Agimba,italian,expensive,Gowanus - Brooklyn,3,false,11:23,20:46
+749,Eadel,chinese,medium,Stuyvesant Town - Manhattan,0,false,9:33,21:24
+750,Zazio,indian,expensive,Midwood - Brooklyn,1,true,11:22,23:02
+751,Browsedrive,malaysian,expensive,Todt Hill - Staten Island,0,true,10:17,22:59
+752,Aimbo,afghani,medium,Rugby - Brooklyn,0,true,10:29,21:03
+753,Bubblemix,italian,cheap,College Point - Queens,1,true,10:21,22:29
+754,Thoughtstorm,italian,medium,Hammels - Queens,5,true,9:50,20:09
+755,Riffpedia,american,expensive,Tudor City - Manhattan,5,false,9:11,20:25
+756,Tekfly,italian,medium,Ridgewood - Queens,2,false,9:42,21:18
+757,Quatz,italian,expensive,Coney Island - Brooklyn,1,false,9:33,20:07
+758,Flashset,thai,expensive,Malba - Queens,5,false,9:12,23:15
+759,Photofeed,afghani,expensive,Shore Acres - Staten Island,1,true,10:10,23:07
+760,Demivee,italian,cheap,Stuyvesant Town - Manhattan,2,false,9:54,20:47
+761,Npath,thai,medium,Broadway Junction - Brooklyn,2,true,11:01,23:25
+762,Latz,thai,cheap,Hillcrest - Queens,0,false,9:35,20:21
+763,Trudoo,malaysian,medium,North Corona - Queens,5,true,10:43,20:51
+764,Livefish,american,cheap,Eastchester - Bronx,2,true,9:04,22:48
+765,Feednation,thai,cheap,Allerton - Bronx,0,false,9:37,22:25
+766,Twitterbeat,thai,expensive,Holliswood - Queens,3,false,9:29,21:54
+767,Skippad,malaysian,medium,Ocean Parkway - Brooklyn,5,false,9:06,22:53
+768,Realbuzz,malaysian,medium,Steinway - Queens,0,false,10:47,22:57
+769,Wikivu,american,expensive,Georgetown - Brooklyn,1,false,9:25,22:01
+770,Quimm,thai,expensive,College Point - Queens,4,false,9:13,21:06
+771,Rhycero,italian,cheap,Stuyvesant Town - Manhattan,3,false,9:57,21:37
+772,Devpoint,italian,expensive,Richmond Hill - Queens,0,true,10:41,20:00
+773,Layo,thai,medium,Remsen Village - Brooklyn,2,false,10:32,21:29
+774,Vitz,malaysian,medium,Woodlawn - Bronx,4,true,10:57,23:26
+775,Devpoint,indian,expensive,Edenwald - Bronx,3,true,9:11,23:02
+776,Kwimbee,thai,cheap,Ditmas Park - Brooklyn,5,true,9:41,21:43
+777,Abata,indian,medium,Briarwood - Queens,4,true,10:45,22:44
+778,Livetube,chinese,expensive,Shore Acres - Staten Island,0,true,11:14,20:18
+779,Wikivu,indian,medium,Parkchester - Bronx,2,false,9:13,21:48
+780,Yozio,malaysian,medium,Mariner's Harbor - Staten Island,2,false,10:25,20:33
+781,Fivespan,american,expensive,Woodlawn - Bronx,4,false,10:00,20:16
+782,Gigabox,italian,medium,Manhattanville - Manhattan,3,true,11:25,22:42
+783,Skyvu,chinese,expensive,Elm Park - Staten Island,0,false,9:47,23:11
+784,Vitz,malaysian,expensive,Westchester Square - Bronx,2,true,9:54,21:43
+785,Brainsphere,italian,cheap,Grasmere - Staten Island,5,false,10:15,20:19
+786,Devpulse,indian,cheap,St. Albans - Queens,0,false,10:21,20:50
+787,Oloo,chinese,medium,Eastchester - Bronx,2,true,9:53,20:54
+788,Feednation,italian,medium,Marine Park - Brooklyn,0,true,9:25,21:29
+789,Babblestorm,malaysian,cheap,Lenox Hill - Manhattan,5,false,11:01,20:34
+790,Ailane,indian,medium,Gravesend - Brooklyn,3,true,11:27,21:28
+791,Gevee,italian,medium,Downtown Brooklyn - Brooklyn,5,true,9:15,20:11
+792,Jabberbean,malaysian,medium,Sunnyside - Queens,1,false,9:15,20:33
+793,Zoomcast,thai,medium,Fresh Meadows - Queens,4,true,10:44,21:47
+794,Miboo,chinese,cheap,Randall Manor - Staten Island,1,true,9:58,22:23
+795,Edgepulse,malaysian,expensive,North Riverdale - Bronx,3,false,9:09,21:30
+796,Mydo,afghani,medium,Bay Terrace - Staten Island,0,false,9:08,22:01
+797,Wikibox,thai,cheap,Stapleton - Staten Island,2,false,9:28,20:19
+798,Tazz,indian,medium,Downtown Brooklyn - Brooklyn,5,false,9:31,22:33
+799,Voonte,chinese,medium,Times Square - Manhattan,1,true,10:37,20:25
+800,Geba,indian,medium,Yorkville - Manhattan,3,false,10:21,22:04
+801,Centizu,italian,cheap,Randall Manor - Staten Island,2,true,9:33,20:32
+802,Jabbercube,thai,cheap,Little Italy - Manhattan,1,true,10:14,22:56
+803,Thoughtsphere,malaysian,expensive,Belle Harbor - Queens,2,true,10:53,22:09
+804,Vimbo,thai,medium,Howland Hook - Staten Island,3,false,10:54,20:58
+805,Dynazzy,malaysian,expensive,Breezy Point - Queens,4,true,9:08,22:16
+806,Demivee,chinese,cheap,Ravenswood - Queens,5,false,10:46,20:34
+807,Skiba,american,medium,Glen Oaks - Queens,4,false,10:25,22:46
+808,Skilith,chinese,cheap,Yorkville - Manhattan,3,false,11:28,21:03
+809,Fadeo,indian,medium,Ocean Hill - Brooklyn,1,false,9:57,21:11
+810,Jetpulse,thai,expensive,Starrett City - Brooklyn,4,false,9:45,20:28
+811,Omba,american,expensive,Arden Heights - Staten Island,5,true,10:15,21:06
+812,Dynazzy,american,expensive,Queensbridge - Queens,4,false,10:04,21:47
+813,Skilith,italian,cheap,Greenridge - Staten Island,1,true,10:38,23:19
+814,Kamba,indian,medium,Eltingville - Staten Island,2,true,9:02,21:44
+815,Twinder,american,cheap,Van Nest - Bronx,5,false,10:36,21:13
+816,Talane,american,medium,Spuyten Duyvil - Bronx,5,false,10:23,20:42
+817,Quinu,thai,cheap,Olinville - Bronx,0,false,11:06,22:18
+818,Gevee,malaysian,cheap,Edgemere - Queens,5,false,11:12,21:04
+819,Yakidoo,thai,expensive,Far Rockaway - Queens,5,true,9:03,22:01
+820,Realbuzz,chinese,medium,Far Rockaway - Queens,4,false,9:43,20:11
+821,Dabshots,thai,cheap,Rugby - Brooklyn,2,false,11:27,23:16
+822,Jabberbean,american,expensive,Soundview - Bronx,1,true,9:59,20:45
+823,Jabberstorm,chinese,cheap,Longwood - Bronx,1,false,10:14,20:33
+824,Agivu,malaysian,expensive,Starrett City - Brooklyn,3,false,9:41,21:38
+825,Skalith,chinese,expensive,Midtown South - Manhattan,5,false,9:03,20:11
+826,Photofeed,chinese,medium,Fox Hills - Staten Island,0,true,10:05,21:41
+827,Thoughtstorm,afghani,medium,Williamsbridge - Bronx,2,false,11:22,22:37
+828,Skiptube,chinese,medium,Long Island City - Queens,4,true,10:11,21:06
+829,Centimia,thai,cheap,Jamaica Estates - Queens,2,false,10:33,22:23
+830,DabZ,indian,medium,Pelham Parkway - Bronx,3,true,10:16,22:05
+831,Realcube,indian,cheap,Eltingville - Staten Island,2,true,11:13,21:58
+832,Yata,malaysian,cheap,Egbertville - Staten Island,0,false,9:54,21:05
+833,Gabtune,american,medium,Greenridge - Staten Island,2,false,9:59,23:15
+834,Eare,afghani,expensive,Bayside - Queens,5,false,9:00,20:38
+835,Thoughtsphere,italian,cheap,Richmond Valley - Staten Island,5,true,10:37,20:51
+836,Edgepulse,chinese,medium,West Farms - Bronx,0,true,10:07,22:29
+837,Realcube,american,expensive,Northside - Brooklyn,1,true,11:27,20:56
+838,Skalith,malaysian,expensive,Jackson Heights - Queens,2,false,10:10,22:39
+839,Babbleopia,thai,expensive,Bay Terrace - Queens,4,true,9:41,20:57
+840,Katz,malaysian,medium,Huguenot - Staten Island,2,true,11:07,21:39
+841,Dynabox,american,expensive,Bushwick - Brooklyn,1,false,10:11,20:29
+842,Feednation,malaysian,medium,Cypress Hills - Brooklyn,5,true,10:00,23:08
+843,Pixonyx,malaysian,medium,Bellaire - Queens,2,true,11:25,20:33
+844,Centizu,indian,cheap,East Harlem - Manhattan,0,false,11:16,22:04
+845,Jazzy,american,expensive,Murray Hill - Manhattan,0,true,9:17,20:10
+846,Voomm,italian,medium,Hunters Point - Queens,0,true,10:30,23:04
+847,Aimbu,afghani,medium,Stapleton - Staten Island,2,true,9:37,21:24
+848,Yacero,american,medium,Greenridge - Staten Island,1,true,9:38,23:29
+849,Zava,indian,cheap,Concord - Staten Island,5,true,10:04,23:13
+850,Mycat,italian,cheap,Glendale - Queens,2,false,10:58,21:09
+851,Twinte,chinese,medium,Queensboro Hill - Queens,4,true,10:57,20:27
+852,Youbridge,italian,medium,Jamaica Estates - Queens,3,true,9:18,20:16
+853,Wordify,italian,medium,Stuyvesant Town - Manhattan,5,false,9:10,20:06
+854,Meezzy,italian,medium,Upper West Side - Manhattan,2,false,10:10,23:01
+855,Trupe,malaysian,cheap,Weeksville - Brooklyn,4,true,10:29,20:55
+856,Realcube,malaysian,cheap,Port Ivory - Staten Island,1,false,10:56,23:26
+857,Buzzbean,american,medium,Park Slope - Brooklyn,2,false,11:13,22:29
+858,Feednation,italian,cheap,Parkchester - Bronx,3,true,9:07,22:51
+859,Shuffletag,indian,cheap,Broadway Junction - Brooklyn,4,false,10:55,21:07
+860,Mita,italian,medium,Gowanus - Brooklyn,4,false,11:09,22:07
+861,Midel,american,cheap,Greenwich Village - Manhattan,4,true,10:32,22:57
+862,Zoovu,italian,cheap,Huguenot - Staten Island,4,false,9:55,21:28
+863,Devcast,indian,cheap,Ridgewood - Queens,5,false,9:35,20:33
+864,Demizz,american,medium,Oakwood - Staten Island,2,false,10:17,22:10
+865,Wordtune,thai,medium,Queens Village - Queens,4,false,10:53,22:54
+866,Gabtype,afghani,medium,Rossville - Staten Island,3,true,10:05,23:28
+867,Photospace,afghani,expensive,Castleton Corners - Staten Island,2,false,9:45,21:04
+868,Realblab,italian,cheap,Kingsbridge - Bronx,4,true,9:17,21:55
+869,Rhybox,chinese,medium,Maspeth - Queens,1,false,9:42,20:21
+870,Fliptune,malaysian,cheap,Belle Harbor - Queens,2,false,10:57,20:26
+871,Browsezoom,afghani,expensive,SoHo - Manhattan,4,true,9:47,23:15
+872,Kwinu,thai,cheap,DUMBO - Brooklyn,3,false,9:41,20:32
+873,Trudoo,italian,medium,Bloomfield - Staten Island,1,true,10:12,20:59
+874,Eidel,chinese,cheap,Howland Hook - Staten Island,3,true,11:09,23:02
+875,Avamm,malaysian,cheap,Morningside Heights - Manhattan,5,true,9:55,21:35
+876,Meezzy,afghani,cheap,Clinton - Manhattan,3,false,11:11,21:08
+877,Realmix,italian,medium,Bay Terrace - Staten Island,3,false,11:19,22:15
+878,Zoomlounge,italian,cheap,Marble Hill (MN) - Bronx,5,false,10:28,20:07
+879,Mydeo,chinese,cheap,College Point - Queens,1,false,11:15,20:39
+880,Yozio,chinese,cheap,East Harlem - Manhattan,3,true,10:32,21:16
+881,Katz,indian,cheap,Ravenswood - Queens,2,false,9:48,20:08
+882,Twitterbeat,italian,cheap,City Line - Brooklyn,2,true,11:22,21:04
+883,Skajo,chinese,expensive,Castleton Corners - Staten Island,5,true,11:08,22:18
+884,Skivee,afghani,cheap,Maspeth - Queens,5,true,10:42,21:45
+885,Babbleblab,american,cheap,Murray Hill - Queens,5,true,11:01,21:41
+886,Chatterpoint,thai,expensive,West Brighton - Staten Island,5,false,9:35,21:32
+887,Flashdog,afghani,cheap,Elmhurst - Queens,0,false,9:40,20:14
+888,Zoombox,indian,cheap,Queens Village - Queens,4,false,10:37,21:50
+889,Agimba,chinese,expensive,Huguenot - Staten Island,5,false,11:27,22:20
+890,Bubblebox,thai,medium,Chelsea - Manhattan,0,true,10:07,20:06
+891,Realbridge,thai,cheap,Hunters Point - Queens,3,true,10:46,23:16
+892,Thoughtstorm,chinese,cheap,Homecrest - Brooklyn,4,false,9:57,22:07
+893,Trudoo,thai,expensive,Egbertville - Staten Island,4,false,10:06,22:31
+894,Jaxnation,american,cheap,West Farms - Bronx,1,false,9:13,20:17
+895,Blogtag,italian,cheap,Williamsburg - Brooklyn,1,true,11:02,21:07
+896,Tekfly,indian,cheap,Malba - Queens,2,true,11:09,20:03
+897,Zoonder,thai,expensive,Broad Channel - Queens,1,false,11:03,21:50
+898,Avamm,thai,cheap,Bushwick - Brooklyn,5,true,9:03,20:30
+899,Gigazoom,thai,cheap,North Corona - Queens,5,false,11:08,21:55
+900,Gabvine,thai,medium,Arden Heights - Staten Island,4,true,9:32,22:58
+901,Vinte,italian,cheap,Queensboro Hill - Queens,0,false,10:38,20:50
+902,Yadel,afghani,medium,Georgetown - Brooklyn,2,false,10:56,21:17
+903,Flipbug,malaysian,expensive,Sutton Place - Manhattan,1,true,10:00,22:37
+904,Shuffletag,italian,cheap,Mill Island - Brooklyn,3,false,11:26,22:57
+905,Skyba,indian,cheap,Bay Terrace - Queens,2,true,10:05,21:44
+906,Vimbo,chinese,medium,Rossville - Staten Island,2,false,10:33,23:14
+907,Shuffletag,afghani,medium,Stapleton - Staten Island,3,false,9:12,23:09
+908,Realbuzz,afghani,medium,Windsor Terrace - Brooklyn,2,false,9:26,21:04
+909,Gigashots,chinese,cheap,New Dorp Beach - Staten Island,4,true,10:01,22:04
+910,Kimia,chinese,cheap,Morris Park - Bronx,2,false,10:53,23:28
+911,Divape,italian,cheap,Bellerose - Queens,4,false,10:16,22:11
+912,Skimia,chinese,expensive,Arlington - Staten Island,3,true,10:28,20:35
+913,Quaxo,chinese,medium,Kew Gardens Hills - Queens,3,true,9:37,20:50
+914,Flipopia,afghani,cheap,Clifton - Staten Island,5,false,10:09,21:31
+915,Eadel,malaysian,cheap,Jamaica Estates - Queens,2,false,9:18,21:07
+916,Devpoint,american,medium,Ocean Parkway - Brooklyn,3,false,9:21,21:45
+917,Flashdog,american,expensive,Battery Park City - Manhattan,0,true,11:09,20:46
+918,Dazzlesphere,indian,cheap,Sunnyside Gardens - Queens,3,true,9:51,21:08
+919,Meeveo,afghani,expensive,Belle Harbor - Queens,4,true,10:08,22:31
+920,Eazzy,indian,expensive,Lenox Hill - Manhattan,3,true,10:41,20:48
+921,Tagfeed,indian,cheap,Shore Acres - Staten Island,1,false,9:07,20:56
+922,Gigashots,american,medium,Belle Harbor - Queens,0,true,9:42,21:27
+923,Voomm,afghani,medium,Fulton Ferry - Brooklyn,4,true,10:40,20:25
+924,Thoughtstorm,chinese,medium,Rochdale - Queens,4,true,10:00,23:26
+925,Avamba,malaysian,expensive,Country Club - Bronx,5,false,9:41,23:00
+926,Dynava,afghani,medium,Prince's Bay - Staten Island,0,true,10:36,20:55
+927,Ntags,chinese,cheap,Oakland Gardens - Queens,0,true,10:42,22:11
+928,Roombo,indian,cheap,Clason Point - Bronx,4,false,11:03,21:05
+929,Zoovu,thai,expensive,Erasmus - Brooklyn,0,false,10:29,23:26
+930,Roodel,indian,expensive,Jamaica Hills - Queens,2,true,9:38,23:14
+931,Kare,chinese,expensive,Chelsea - Staten Island,2,false,10:05,23:08
+932,Trudeo,afghani,medium,Holliswood - Queens,5,false,9:22,22:52
+933,Yadel,american,cheap,Old Town - Staten Island,5,true,10:09,21:02
+934,Voonder,chinese,expensive,Annadale - Staten Island,3,false,9:25,22:55
+935,Realcube,indian,expensive,North Corona - Queens,0,true,10:25,20:25
+936,Fliptune,italian,expensive,Coney Island - Brooklyn,0,false,10:52,23:13
+937,Pixoboo,american,medium,Ocean Hill - Brooklyn,4,true,11:01,22:36
+938,Babbleopia,american,expensive,Sea Gate - Brooklyn,0,true,10:08,21:52
+939,Edgetag,afghani,expensive,Brownsville - Brooklyn,0,false,9:18,21:16
+940,Vinder,chinese,cheap,Dyker Heights - Brooklyn,0,true,9:36,22:00
+941,Roodel,indian,expensive,Bay Terrace - Staten Island,4,false,9:02,22:55
+942,Flashdog,chinese,cheap,Hamilton Heights - Manhattan,2,false,11:04,22:27
+943,Dabjam,american,expensive,Sunnyside - Queens,3,false,9:23,20:15
+944,Oyope,thai,medium,Shore Acres - Staten Island,0,true,11:21,20:10
+945,Avamm,italian,expensive,Sunset Park - Brooklyn,0,true,9:33,22:54
+946,Mybuzz,chinese,expensive,Windsor Terrace - Brooklyn,3,false,9:45,22:23
+947,Janyx,thai,cheap,Randall Manor - Staten Island,5,false,10:14,20:50
+948,Twitterbeat,malaysian,medium,Windsor Terrace - Brooklyn,5,false,9:23,20:11
+949,Realcube,indian,expensive,Gerritsen Beach - Brooklyn,4,true,9:33,22:03
+950,Divavu,thai,expensive,Belmont - Bronx,4,true,10:26,21:55
+951,Skyvu,american,expensive,Georgetown - Brooklyn,0,true,10:02,22:20
+952,Skinix,chinese,expensive,East Elmhurst - Queens,5,true,10:56,23:25
+953,Flipbug,american,cheap,Floral Park - Queens,2,true,11:11,23:21
+954,Bubbletube,italian,medium,Manhattan Valley - Manhattan,3,false,9:07,21:05
+955,Flashspan,afghani,medium,Floral Park - Queens,1,false,9:52,22:49
+956,Flashpoint,thai,expensive,Edenwald - Bronx,3,true,9:35,22:03
+957,Abata,indian,cheap,Bayside - Queens,5,true,9:29,21:28
+958,Topicblab,american,cheap,Emerson Hill - Staten Island,5,false,9:26,20:33
+959,Skyvu,thai,cheap,Astoria - Queens,3,false,11:03,23:21
+960,Edgeclub,malaysian,expensive,Mariner's Harbor - Staten Island,1,true,9:52,20:45
+961,Babblestorm,thai,cheap,Howard Beach - Queens,5,true,9:02,23:04
+962,Twitterlist,italian,medium,Woodside - Queens,1,true,10:15,20:35
+963,Roombo,indian,cheap,Grasmere - Staten Island,1,true,9:18,20:45
+964,Kayveo,american,cheap,Sea Gate - Brooklyn,2,true,10:53,21:14
+965,Talane,italian,medium,Sutton Place - Manhattan,1,true,11:21,22:39
+966,Buzzshare,malaysian,cheap,Lincoln Square - Manhattan,0,true,9:28,23:27
+967,Eare,indian,medium,Kingsbridge Heights - Bronx,2,false,11:06,22:40
+968,Fivespan,indian,cheap,Mount Hope - Bronx,4,false,9:54,21:40
+969,Photobug,italian,medium,Van Nest - Bronx,0,true,9:43,21:49
+970,Divanoodle,chinese,expensive,Pomonok - Queens,2,false,9:18,20:06
+971,Skyba,malaysian,medium,Morningside Heights - Manhattan,1,true,10:28,21:17
+972,Tagchat,italian,expensive,Bellaire - Queens,5,false,10:25,20:46
+973,Izio,malaysian,expensive,Erasmus - Brooklyn,0,false,10:46,20:11
+974,Zooxo,afghani,cheap,Great Kills - Staten Island,0,false,9:33,22:05
+975,Zoonder,italian,expensive,Hamilton Heights - Manhattan,2,false,9:19,23:28
+976,Yata,italian,medium,New Dorp - Staten Island,1,true,11:23,20:05
+977,Zoovu,chinese,expensive,Woodside - Queens,2,true,10:29,23:19
+978,Tagpad,chinese,medium,Kingsbridge Heights - Bronx,3,true,9:08,22:46
+979,Feedfish,afghani,medium,Randall Manor - Staten Island,5,true,10:25,21:42
+980,Jatri,american,expensive,Chelsea - Manhattan,1,true,11:06,21:42
+981,InnoZ,afghani,cheap,Wingate - Brooklyn,4,true,10:28,22:26
+982,Fivechat,thai,expensive,Bensonhurst - Brooklyn,0,false,10:18,20:52
+983,Kwideo,indian,medium,Tottenville - Staten Island,5,false,10:15,21:38
+984,Lazzy,italian,cheap,City Line - Brooklyn,1,false,11:28,23:13
+985,Rhyzio,italian,cheap,Remsen Village - Brooklyn,5,false,9:26,21:56
+986,Oyope,indian,medium,Glendale - Queens,3,false,9:37,21:46
+987,Meeveo,indian,expensive,Mariner's Harbor - Staten Island,4,false,9:12,22:14
+988,Divavu,american,medium,Throgs Neck - Bronx,5,true,9:59,23:11
+989,Zoomdog,indian,medium,Brighton Beach - Brooklyn,0,false,9:03,20:38
+990,Twitterbeat,chinese,cheap,Hunts Point - Bronx,0,true,10:33,20:40
+991,Skivee,italian,cheap,DUMBO - Brooklyn,3,true,10:27,22:16
+992,Jaxworks,indian,expensive,Hunts Point - Bronx,5,false,9:56,23:12
+993,Skaboo,american,cheap,Williamsburg - Brooklyn,3,false,10:56,20:22
+994,Skibox,american,cheap,Howland Hook - Staten Island,5,false,9:14,22:13
+995,Thoughtworks,italian,cheap,Flatlands - Brooklyn,4,true,10:29,22:44
+996,Thoughtmix,malaysian,cheap,Long Island City - Queens,3,false,9:46,21:53
+997,Topicware,chinese,cheap,Glen Oaks - Queens,2,true,10:26,23:00
+998,Nlounge,malaysian,medium,Marble Hill (MN) - Bronx,4,true,9:46,21:41
+999,Muxo,american,cheap,Prospect Park South  - Brooklyn,4,true,9:00,20:33
+1000,Rhycero,thai,cheap,Willowbrook - Staten Island,3,true,11:10,20:18
